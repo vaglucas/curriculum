@@ -1,15 +1,19 @@
-<h2>Vagner Lucas Gomes</h2>
+
+#
+<h3>Vagner Lucas Gomes</h3>
+
 <p>Via Genova 8</p>
 <p>San Martino Buon Albergo, 37036</p>
 <p>Celulare/Whatsapp: +39 3284107661</p>
 <p>E-Mail: vagner.lucas.gomes@gmail.com</p>
 <p>Età: 25 anni		Nazionalità: Brasiliano</p>
-<p>linkedin.com/in/vagner-lucas-gomes-52975766	</p>
+<a>linkedin.com/in/vagner-lucas-gomes-52975766	</a>
 <p>http://www.habitatweb.inf.br/sistemas/</p>
 
+<h>
+<h3>Sintesi</h3>
+<p>Sviluppatore di software abile, con più di 5 anni di esperienza maturata nell'ambito della progettazione, dello sviluppo e dell'integrazione di software. Conoscenza approfondita di Java e la sua API, bibliotecas e framewoks, HTML5, JavaScript, jQuery, Android.</p>
 
-Sintesi
-Sviluppatore di software abile, con più di 5 anni di esperienza maturata nell'ambito della progettazione, dello sviluppo e dell'integrazione di software. Conoscenza approfondita di Java e la sua API, bibliotecas e framewoks, HTML5, JavaScript, jQuery, Android.
 Capacità
 Specialista di Java,/JEE;
 Conoscenza approfondita di HTML5, JavaScripit, Jquery, Google Maps API;
