@@ -25,6 +25,9 @@
 <p>Gestione del tempo eccezionale;</p>
 <p>Conoscenza di Programmazione Android;</p>
 <p>Conoscenza Go language (Google);</p>
+<p>Conoscenza di Python;</p>
+
+
 <h3>ISTRUZIONE</h3>
 <h4>Attuale</h4>
 <p>Universidade do Oeste de Santa Catarina – UNOESCt</p>
