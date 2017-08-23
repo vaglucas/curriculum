@@ -7,8 +7,7 @@
 <p>Celulare/Whatsapp: +39 3284107661</p>
 <p>E-Mail: vagner.lucas.gomes@gmail.com</p>
 <p>Età: 26 anni		Nazionalità: Brasiliano</p>
-<a>linkedin.com/in/vagner-lucas-gomes-52975766	</a>
-<p>http://www.habitatweb.inf.br/sistemas/</p>
+<a>linkedin.com/in/vagner-lucas-gomes-52975766	</a> 
 
 <h>
 <h3>Sintesi</h3>
