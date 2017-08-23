@@ -56,7 +56,7 @@
 <p>Dicembre 2016 </p>
 <p>Programmatore Java</p>
 <p>Sintesi delle capacità e delle attività svolte:</p>
-<p>1- Sviluppo di nuove funzionalità per sistema di emissione di polizze assicurativa,integrazione con diverse servizi, sistemazione di errori e manutenzione del sistema.
+<p>1- Sviluppo di nuove funzionalità per sistema di emissione di polizze assicurativa, integrazione con diverse servizi, sistemazione di errori e manutenzione del sistema.
 Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 
 <h4>HabitatWeb  Catanduvas -SC/Brasile</h4>
