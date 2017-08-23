@@ -71,37 +71,39 @@ Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 <p>• Server: Apache Tomcat 7/8</p>
 <p>• Scrum</p>
 <p>• Tempo di progetto: 1 anno.</p>
-2 - AgroLactus, sistema per il monitoraggio di raccolta del latte. Il sistema tiene traccia dei veicoli per la raccolta del latte nelle aziende agricole, rendendo l'identificazione automatica di proprietà rurale attraverso la georeferenziazione, fino al momento della fornitura di latte alle aziende lattiero-casearie. Il sistema calcola la produzione media di latte per immobili, classificas proprietà come latte al giorno indice della produzione. Diversi report.
- I partecipanti al progetto:
-• Vagner Lucas Gomes - Funzione: Analisi, Requisiti Survey, base di dati di progetto logico, modellazione del sistema, la programmazione di back-end, la programmazione front-end, i test.
-• Ouriques Maykol - Funzione: Analisi, raccolta dei requisiti e test.
-• Renato Barbosa - Funzione: Collaudo e vendita.
-Tecnologie utilizzate.
-• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery.
-• Server: Apache Tomcat 7/8
-• tempi di progetto: 1 anno e 4 mesi.
-• Scrum 3 -
-HabitatWeb  Catanduvas -SC/Brasile
-Luglio 2012 - Maio 2015
-Il Geofrotas è un sistema di gestione flotta di distribuzione con alimentazione in proprietà rurali, il sistema automatizza la consegna di veicoli. Un veicolo è in grado di rendere più di un contributo in diverse proprietà, sistema propone quindi il miglior percorso con il minor costo della distanza, controllare che tipo di veicolo può viaggiare in una linea particolare, come la maggior quantità possibile di mangime per veicolo. Esso ha la possibilità di inseguimento del veicolo.
-I partecipanti al progetto:
-• Vagner Lucas Gomes - Funzione: Analisi, Requisiti Survey, base di dati di progetto logico, modellazione del sistema, la programmazione di back-end, la programmazione front-end, i test.
-• Ouriques Maykol - Funzione: Analisi, raccolta dei requisiti e test.
-• Funzione Alexandre Heberle-: Analisi, Requisiti Survey, database di progettazione logica, la modellazione del sistema, back-end di programmazione.
-Tecnologie utilizzate.
-• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet, Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery.
-• Server: Apache Tomcat 7
-• tempi di progetto: 1 anno e 6 mesi.
-• Scrum
-4 - Il GEOCARE un sistema per il controllo della sicurezza privata. Il sistema rende monitoraggio in tempo reale della guardia armata che è in funzione. Quando il centro riceve un evento, il sistema fa l'avviso per la sicurezza che è più vicino a dove sta andando a verificarsi e l'allarme è stato attivato. Progetto sviluppato durante la fase di accademico. segnalazioni di eventi per i quartieri, strade, tempo di guardia, regione georeferenziati. Esso ha la possibilità di inseguimento del veicolo.
-I partecipanti al progetto:
-• Vagner Lucas Gomes - Funzione: Analisi, Requisiti Survey, base di dati di progetto logico, modellazione del sistema, la programmazione di back-end, la programmazione front-end, i test.
-• Vinicius Mores - Funzione: Analisi, Requisiti Survey, base di dati di progetto logico, modellazione del sistema, la programmazione di back-end, test di programmazione front-end.
-• Michel Avila - Funzione: Supervisore.
-• Cristiano Azevedo - Funzione: insegnante consulente
-• Usato Technologies.
-• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery, App Android, prese di corrente.
-• Server: Apache Tomcat 7
-• tempi di progetto: 6 mesi.
-• Scrum
+
+<p>2 - AgroLactus, sistema per il monitoraggio di raccolta del latte. Il sistema tiene traccia dei veicoli per la raccolta del latte nelle aziende agricole, rendendo l'identificazione automatica di proprietà rurale attraverso la georeferenziazione, fino al momento della fornitura di latte alle aziende lattiero-casearie. Il sistema calcola la produzione media di latte per immobili, classificas proprietà come latte al giorno indice della produzione. Diversi report.</p>
+<p> I partecipanti al progetto:</p>
+<p>• Vagner Lucas Gomes - Funzione: Analisi, Requisiti Survey, base di dati di progetto logico, modellazione del sistema, la programmazione di back-end, la programmazione front-end, i test.</p>
+<p>• Ouriques Maykol - Funzione: Analisi, raccolta dei requisiti e test.</p>
+<p>• Renato Barbosa - Funzione: Collaudo e vendita.</p>
+Tecnologie utilizzate.</p>
+<p>• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery.</p>
+<p>• Server: Apache Tomcat 7/8</p>
+<p>• tempi di progetto: 1 anno e 4 mesi.</p>
+<p>• Scrum </p>
+
+<h4>HabitatWeb  Catanduvas -SC/Brasile</h4>
+<p>Luglio 2012 - Maio 2015</p>
+<p>3- Il Geofrotas è un sistema di gestione flotta di distribuzione con alimentazione in proprietà rurali, il sistema automatizza la consegna di veicoli. Un veicolo è in grado di rendere più di un contributo in diverse proprietà, sistema propone quindi il miglior percorso con il minor costo della distanza, controllare che tipo di veicolo può viaggiare in una linea particolare, come la maggior quantità possibile di mangime per veicolo. Esso ha la possibilità di inseguimento del veicolo.</p>
+<p>I partecipanti al progetto:</p>
+<p>• Vagner Lucas Gomes - Funzione: Analisi, Requisiti Survey, base di dati di progetto logico, modellazione del sistema, la programmazione di back-end, la programmazione front-end, i test.
+<p>• Ouriques Maykol - Funzione: Analisi, raccolta dei requisiti e test.
+<p>• Funzione Alexandre Heberle-: Analisi, Requisiti Survey, database di progettazione logica, la modellazione del sistema, <p>back-end di programmazione.</p>
+<p>Tecnologie utilizzate.</p>
+<p>• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet, Java Server Pages, HTML5, CSS3, <p>Bootstrap, JavaScritp, API di Google Maps, jQuery.</p>
+<p>• Server: Apache Tomcat 7</p>
+<p>• tempi di progetto: 1 anno e 6 mesi.</p>
+<p>• Scrum</p>
+<p>4 - Il GEOCARE un sistema per il controllo della sicurezza privata. Il sistema rende monitoraggio in tempo reale della guardia armata che è in funzione. Quando il centro riceve un evento, il sistema fa l'avviso per la sicurezza che è più vicino a dove sta andando a verificarsi e l'allarme è stato attivato. Progetto sviluppato durante la fase di accademico. segnalazioni di eventi per i quartieri, strade, tempo di guardia, regione georeferenziati. Esso ha la possibilità di inseguimento del veicolo.</p>
+<p>I partecipanti al progetto:</p>
+<p>• Vagner Lucas Gomes - Funzione: Analisi, Requisiti Survey, base di dati di progetto logico, modellazione del sistema, la programmazione di back-end, la programmazione front-end, i test.</p>
+<p>• Vinicius Mores - Funzione: Analisi, Requisiti Survey, base di dati di progetto logico, modellazione del sistema, la programmazione di back-end, test di programmazione front-end.</p>
+<p>• Michel Avila - Funzione: Supervisore.</p>
+<p>• Cristiano Azevedo - Funzione: insegnante consulente</p>
+<p>• Usato Technologies.</p>
+<p>• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery, App Android, prese di corrente.</p>
+<p>• Server: Apache Tomcat 7</p>
+<p>• tempi di progetto: 6 mesi.</p>
+<p>• Scrum</p>
 
