@@ -92,4 +92,8 @@ Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
     <td>Italian</td>
     <td>C1</td>
   </tr>
+   <tr>
+    <td>English</td>
+    <td>B1</td>
+  </tr>
 </table>
