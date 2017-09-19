@@ -22,13 +22,13 @@
 <p>Go language knowledge (Google);</p>
 <p>Python knowledge;</p>
 
-<h3>Education and training</h3>
-<h4>Current</h4>
-<p>University of West Santa Catarina – UNOESCt</p>
-<p>Master degree of a scientific nature: Computer Engineering</p>
+<h3> Education and training</h3>
+<h4> Current</h4>
+<p> University of West Santa Catarina – UNOESCt</p>
+<p> Master degree of a scientific nature: Computer Engineering</p>
 
-<h3>Certification/Courses</h3>
-<h4>Additional information</h4> 
+<h3> Certification/Courses</h3>
+<h4> Additional information</h4> 
 <p>•<a href='http://www.devmedia.com.br/' target='_blank' > Courses DevMedia:</a></p>
 <p>• Full application using Hibernate - 2015</p>
 <p>• IReport Course - Develop with Java Reporting - 2015</p>
@@ -40,44 +40,44 @@
 <p>• Java EE Course: Build a complete Java EE application - </p>2015</p>
 <p>• Use Case Diagram in practice - 2015</p>
 <p>• A virtual store creation course with Android Studio - ANDROID - 2016</p>
-<h3>Professional experiences</h3>
-<h4>Beije Consulting</h4>
-<p>December 2016 </p>
-<p>Java Developer</p>
-<p>Summary of skills and activities:</p>
-<p>1-Development of new features for insurance policy issuing system, integration with various services (rest/soap), bug fixing and system maintenance.
+<h3> Professional experiences</h3>
+<h4> Beije Consulting</h4>
+<p> December 2016 - current</p>
+<p> Java Developer</p>
+<p> Summary of skills and activities:</p>
+<p> 1-Development of new features for insurance policy issuing system, integration with various services (rest/soap), bug fixing and system maintenance.
 Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 <h4>HabitatWeb  Catanduvas -SC/Brasile</h4>
-<p>July 2012－Giugno 2016</p>
-<p>Developer/Analyst</p>
-<p>Summary of skills and activities:</p>
-<p> 1 - LicençaWeb is a system for environmental licenses </ p>
+<p> July 2012－Giugno 2016</p>
+<p> Developer/Analyst</p>
+<p> Summary of skills and activities:</p>
+<h4><p> 1 - LicençaWeb is a system for environmental licenses </ p></h4>
 <p>I partecipanti al progetto</p>
-<p>•Function: Analysis, Requirements Survey, logical project database, system modeling, back-end programming, front-end programming, tests.</p> 
-<h4>The technologies used in the project.</h4>
-<p>•Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery.</p>
+<p>• Function: Analysis, Requirements Survey, logical project database, system modeling, back-end programming, front-end programming, tests.</p> 
+<p>The technologies used in the project.</p>
+<p>• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery.</p>
 <p>• Server: Apache Tomcat 7/8</p>
 <p>• Scrum</p>
 <p>• Project time: 1 year.</p>
-<p>2 - AgroLactus, a system for monitoring milk collection.</p>
+<h4><p>2 - AgroLactus, a system for monitoring milk collection.</p></h4>
 <p>• Function: Analysis, Requirements Survey, logical project database, system modeling, back-end programming, front-end programming, tests.</p>
-<h4>The technologies used in the project.</h4>
+<p> The technologies used in the project.</p>
 <p>• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery.</p>
 <p>• Server: Apache Tomcat 7/8</p>
-<p>• tempi di progetto: 1 anno e 4 mesi.</p>
+<p>• Project times: 1 year and 4 months.</p>
 <p>• Scrum </p>
-<p>3-Geofrotas is a distribution fleet management system with rural feed.</p>
+<h4><p>3-Geofrotas is a distribution fleet management system with rural feed.</p></h4>
 <p>• Function: Analysis, Requirements Survey, logical project database, system modeling, back-end programming, front-end programming, tests</p>
-<h4>The technologies used in the project.</h4>
+<p> The technologies used in the project.</p>
 <p>• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet, Java Server Pages, HTML5, CSS3, <p>Bootstrap, JavaScritp, API di Google Maps, jQuery.</p>
 <p>• Server: Apache Tomcat 7</p>
-<p>• tempi di progetto: 1 anno e 6 mesi.</p>
+<p>• Project times: 1 year and 6 months.</p>
 <p>• Scrum</p>
-<p>4 - GEOCARE is a private security control system.</p>
+<h4><p>4 - GEOCARE is a private security control system.</p></h4>
 <p>• Function: Analysis, Requirements Survey, logical project database, system modeling, back-end programming, front-end programming, tests</p>
-<h4>The technologies used in the project.</h4>
+<p> The technologies used in the project.</p>
 <p>• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery, App Android, prese di corrente.</p>
 <p>• Server: Apache Tomcat 7</p>
-<p>• tempi di progetto: 6 mesi.</p>
+<p>• Project times: 6 months.</p>
 <p>• Scrum</p>
 
