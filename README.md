@@ -1,18 +1,13 @@
-
-#
 <h3>Vagner Lucas Gomes</h3>
-
 <p>Via Genova 8</p>
 <p>San Martino Buon Albergo, 37036</p>
 <p>Mobile: +39 3284107661</p>
 <p>E-Mail: vagner.lucas.gomes@gmail.com</p>
 <p>26 years old,		Nationality: Brazilian</p>
 <a>linkedin.com/in/vagner-lucas-gomes-52975766	</a> 
-
 <h>
 <h3>Summary</h3>
 <p>Skilled software developer with more than 5 years of experience in designing, developing and integrating software. In-depth knowledge of Java and its APIs (Rest, Hibernate, iReport, etc), libraries and framewoks, HTML5, JavaScript, jQuery. Basic knowledge of Android, Python, Golang, C ++ and C-</p>
-
 <h3>Skills</h3>
 <p>Java Specialist/JEE;</p>
 <p>In-depth knowledge of HTML5</p><p>JavaScripit</p><p> Jquery</p><p> Google Maps API</p>
@@ -27,7 +22,6 @@
 <p>Go language knowledge (Google);</p>
 <p>Python knowledge;</p>
 
-
 <h3>Education and training</h3>
 <h4>Current</h4>
 <p>University of West Santa Catarina – UNOESCt</p>
@@ -35,7 +29,7 @@
 
 <h3>Certification/Courses</h3>
 <h4>Additional information</h4> 
-<p>• Courses DevMedia:</p><a href='http://www.devmedia.com.br/'>Link</a>
+<p>•<a href='http://www.devmedia.com.br/' target='_blank' > Courses DevMedia:</a></p>
 <p>• Full application using Hibernate - 2015</p>
 <p>• IReport Course - Develop with Java Reporting - 2015</p>
 <p>• Java Web: Servlet, JSP, JSTL e tag - 2015</p>
@@ -46,7 +40,6 @@
 <p>• Java EE Course: Build a complete Java EE application - </p>2015</p>
 <p>• Use Case Diagram in practice - 2015</p>
 <p>• A virtual store creation course with Android Studio - ANDROID - 2016</p>
-
 <h3>Professional experiences</h3>
 <h4>Beije Consulting</h4>
 <p>December 2016 </p>
@@ -54,9 +47,8 @@
 <p>Summary of skills and activities:</p>
 <p>1-Development of new features for insurance policy issuing system, integration with various services (rest/soap), bug fixing and system maintenance.
 Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
-
 <h4>HabitatWeb  Catanduvas -SC/Brasile</h4>
-<p>Maio 2015－Giugno 2016</p>
+<p>July 2012－Giugno 2016</p>
 <p>Developer/Analyst</p>
 <p>Summary of skills and activities:</p>
 <p> 1 - LicençaWeb is a system for environmental licenses </ p>
@@ -67,7 +59,6 @@ Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 <p>• Server: Apache Tomcat 7/8</p>
 <p>• Scrum</p>
 <p>• Project time: 1 year.</p>
-
 <p>2 - AgroLactus, a system for monitoring milk collection.</p>
 <p>• Function: Analysis, Requirements Survey, logical project database, system modeling, back-end programming, front-end programming, tests.</p>
 <h4>The technologies used in the project.</h4>
@@ -75,11 +66,8 @@ Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 <p>• Server: Apache Tomcat 7/8</p>
 <p>• tempi di progetto: 1 anno e 4 mesi.</p>
 <p>• Scrum </p>
-
-<h4>HabitatWeb  Catanduvas -SC/Brasile</h4>
-<p>July 2012 - May 2015</p>
 <p>3-Geofrotas is a distribution fleet management system with rural feed.</p>
- <p>• Function: Analysis, Requirements Survey, logical project database, system modeling, back-end programming, front-end programming, tests</p>
+<p>• Function: Analysis, Requirements Survey, logical project database, system modeling, back-end programming, front-end programming, tests</p>
 <h4>The technologies used in the project.</h4>
 <p>• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet, Java Server Pages, HTML5, CSS3, <p>Bootstrap, JavaScritp, API di Google Maps, jQuery.</p>
 <p>• Server: Apache Tomcat 7</p>
