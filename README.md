@@ -81,3 +81,15 @@ Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 <p>• Project times: 6 months.</p>
 <p>• Scrum</p>
 
+<h4>Languages</h4>
+<p>• Native language - Portuguese</p>
+<table  >
+  <tr>
+    <th>Language</th>
+    <th>Skill</th>
+  </tr>
+  <tr>
+    <td>Italian</td>
+    <td>C1</td>
+  </tr>
+</table>
