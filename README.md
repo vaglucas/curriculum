@@ -53,7 +53,6 @@ Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 <p> Developer/Analyst</p>
 <p> Summary of skills and activities:</p>
 <h4><p> 1 - LicençaWeb is a system for environmental licenses </ p></h4>
-<p>I partecipanti al progetto</p>
 <p>• Function: Analysis, Requirements Survey, logical project database, system modeling, back-end programming, front-end programming, tests.</p> 
 <p>The technologies used in the project.</p>
 <p>• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery.</p>
