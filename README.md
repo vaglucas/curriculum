@@ -22,6 +22,7 @@
 <p>Linux knowledge</p>
 <p>Go language knowledge (Google);</p>
 <p>Python knowledge;</p>
+<p>Django knowledge;</p>
 
 <h3> Education and training</h3>
 <h4> Current</h4>
