@@ -43,11 +43,17 @@
 <p>• Use Case Diagram in practice - 2015</p>
 <p>• A virtual store creation course with Android Studio - ANDROID - 2016</p>
 <h3> Professional experiences</h3>
-<h4> Beije Consulting</h4>
-<p> December 2016 - current</p>
+<h4> Value Plus S.R.L</h4>
+<p> January 2017 - Current</p>
 <p> Java Developer</p>
 <p> Summary of skills and activities:</p>
 <p> 1-Development of new features for insurance policy issuing system, integration with various services (rest/soap), bug fixing and system maintenance.
+Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
+<h4> Beije Consulting</h4>
+<p> December 2016 - December 2017</p>
+<p> Java Developer</p>
+<p> Summary of skills and activities:</p>
+<p> 1-consulting programmer.
 Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 <h4>HabitatWeb  Catanduvas -SC/Brasile</h4>
 <p> July 2012－Giugno 2016</p>
