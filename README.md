@@ -1,6 +1,6 @@
 <h3>Vagner Lucas Gomes</h3>
-<p>Via Genova 8</p>
-<p>San Martino Buon Albergo, 37036</p>
+<p>Viale Alcide de Gasperi 8</p>
+<p>Treviglio BG, 24047</p>
 <p>Italy</p>
 <p>Mobile: +39 3284107661</p>
 <p>E-Mail: vagner.lucas.gomes@gmail.com</p>
