@@ -50,10 +50,10 @@
 <p>Development of new features for insurance policy issuing system, integration with various services (rest/soap), bug fixing and system maintenance.
 Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 <hr>
-<h4>-Personal Project</h4>
-<p> Django/python web aplication</p>
-<p> Summary of skills and activities:</p>
-<p> Development of web application for study organization. on a<a href='http://revisaapp.pythonanywhere.com/' target='_blank' >RevisaApp</a> </p>
+<h4>Personal Project</h4>
+<p>Django/python web aplication</p>
+<p>Summary of skills and activities:</p>
+<p>Development of web application for study organization. On a <a href='http://revisaapp.pythonanywhere.com/' target='_blank' >RevisaApp</a> </p>
 <hr>
 <h4>Beije Consulting</h4>
 <p>December 2016 - December 2017</p>
@@ -73,7 +73,7 @@ Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 <p>• Server: Apache Tomcat 7/8</p>
 <p>• Scrum</p>
 <p>• Project time: 1 year.</p>
-<h4><p>- AgroLactus, a system for monitoring milk collection.</p></h4>
+<h4><p>AgroLactus, a system for monitoring milk collection.</p></h4>
 <p>• Function: Analysis, Requirements Survey, logical project database, system modeling, back-end programming, front-end programming, tests.</p>
 <p>The technologies used in the project.</p>
 <p>• Java EE 7, Hibernate, MySQL, JasperReport I-Report, Restfull (webservice), servlet Java Server Pages, HTML5, CSS3, Bootstrap, JavaScritp, API di Google Maps, jQuery.</p>
