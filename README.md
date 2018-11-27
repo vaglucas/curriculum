@@ -44,7 +44,7 @@
 <p>• A virtual store creation course with Android Studio - ANDROID - 2016</p>
 <h3>Professional experiences</h3>
 <h4>Virtual B SPA</h4>
-<p>November 2018</p>
+<p>November 2018 - Current</p>
 <p>Python Developer</p>
 <p>Summary of skills and activities:</p>
 <p>Development of new API rest.
