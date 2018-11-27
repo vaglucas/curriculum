@@ -43,8 +43,15 @@
 <p>• Use Case Diagram in practice - 2015</p>
 <p>• A virtual store creation course with Android Studio - ANDROID - 2016</p>
 <h3>Professional experiences</h3>
+<h4>Virtual B SPA</h4>
+<p>November 2018</p>
+<p>Python Developer</p>
+<p>Summary of skills and activities:</p>
+<p>Development of new API rest.
+Python, Django, django rest, swagger, Postgress, MongoDB, Pandas.</p>
+<hr>
 <h4>Value Plus S.R.L</h4>
-<p>January 2017 - Current</p>
+<p>January 2017 - November 2018</p>
 <p>Java Developer</p>
 <p>Summary of skills and activities:</p>
 <p>Development of new features for insurance policy issuing system, integration with various services (rest/soap), bug fixing and system maintenance.
