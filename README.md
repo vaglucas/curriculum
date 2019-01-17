@@ -8,21 +8,22 @@
 <a>linkedin.com/in/vagner-lucas-gomes-52975766	</a> 
 <h>
 <h3>Summary</h3>
-<p>Skilled software developer with more than 5 years of experience in designing, developing and integrating software. In-depth knowledge of Java and its APIs (Rest, Hibernate, iReport, etc), libraries and framewoks, HTML5, JavaScript, jQuery. Basic knowledge of Android, Python, Golang, C ++ and C-</p>
+<p>Skilled software developer with more than 5 years of experience in designing, developing and integrating software. In-depth knowledge of Java and its APIs (Rest, Hibernate, iReport, etc), libraries and framewoks, HTML5, JavaScript, jQuery. Knowledge Python, Django, Django rest framework. Basic knowledge of Android, Golang, C ++ and C-</p>
 <h3>Skills</h3>
 <p>Java Specialist/JEE;</p>
 <p>In-depth knowledge of HTML5</p><p>JavaScripit</p><p> Jquery</p><p> Google Maps API</p>
 <p>In-depth knowledge of Java, J2EE,SE, JavaWeb, J2EE, Servlet, RestFul/Soap, I-report, Hibernate;</p>
 <p>Advanced troubleshooting capabilities;</p>
+<p>Python knowledge;</p>
+<p>Django knowledge;</p>
+<p>Django Rest Framework knowledge;</p>
 <p>Data Management-MySQL, Oracle Data Base</p>
 <p>Knowledge of C, C++, C programming to AVR microcontroller</p>
 <p>API design knowledge;</p>
 <p>Exceptional time management;</p>
 <p>Android programming knowledge;</p>
 <p>Linux knowledge</p>
-<p>Go language knowledge (Google);</p>
-<p>Python knowledge;</p>
-<p>Django knowledge;</p>
+<p>Go language basic knowledge (Google);</p>
 
 <h3>Education and training</h3>
 <h4>Current</h4>
