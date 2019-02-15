@@ -32,6 +32,8 @@
 
 <h3>Certification/Courses</h3>
 <h4>Additional information</h4> 
+<p>•<a href='https://www.udemy.com/machine-learning-e-data-science-com-python-y/' target='_blank' > Machine Learning e Data Science com Python de A à Z</a></p>
+<p>•<a href='https://www.udemy.com/missao-devops-jenkins-em-larga-escala-docker-e-kubernetes/' target='_blank' > Jenkins em larga escala via Docker e Kubernetes</a></p>
 <p>•<a href='http://www.devmedia.com.br/' target='_blank' > Courses DevMedia:</a></p>
 <p>• Full application using Hibernate - 2015</p>
 <p>• IReport Course - Develop with Java Reporting - 2015</p>
