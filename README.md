@@ -13,6 +13,9 @@
 <p>Python knowledge;</p>
 <p>Django knowledge;</p>
 <p>Django Rest Framework knowledge;</p>
+<p>Docker basic knowledge;</p>
+<p>Ansible basic knowledge;</p>
+<p>Jenkins basic knowledge;</p>
 <p>Java Specialist/JEE;</p>
 <p>In-depth knowledge of HTML5</p><p>JavaScripit</p><p> Jquery</p><p> Google Maps API</p>
 <p>In-depth knowledge of Java, J2EE,SE, JavaWeb, J2EE, Servlet, RestFul/Soap, I-report, Hibernate;</p>
