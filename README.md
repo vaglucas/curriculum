@@ -6,7 +6,7 @@
 <p>E-Mail: vagner.lucas.gomes@gmail.com</p>
 <p>28 years old,		Nationality: Brazilian</p>
 <p>Residency Status: EU citizen</p>
-<a>linkedin.com/in/vagner-lucas-gomes-52975766	</a> 
+<a href="linkedin.com/in/vagner-lucas-gomes-52975766" target="_blank" >linkedin.com/in/vagner-lucas-gomes-52975766	</a> 
 <h>
 <h3>Summary</h3>
 <p>Skilled software developer with more than 5 years of experience in designing, developing and integrating software. In-depth knowledge of Java and its APIs (Rest, Hibernate, iReport, etc), libraries and framewoks, HTML5, JavaScript, jQuery. Knowledge Python, Django, Django rest framework. Basic knowledge of Android, Golang, C ++ and C-</p>
