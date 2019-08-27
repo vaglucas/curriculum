@@ -19,14 +19,14 @@
 <p>Ansible basic knowledge;</p>
 <p>Jenkins basic knowledge;</p>
 <p>Java Specialist/JEE;</p>
-<p>In-depth knowledge of HTML5</p><p>JavaScripit</p><p> Jquery</p><p> Google Maps API</p>
+<p>In-depth knowledge of HTML5; JavaScripit; Jquery</p>
 <p>In-depth knowledge of Java, J2EE,SE, JavaWeb, J2EE, Servlet, RestFul/Soap, I-report, Hibernate;</p>
-<p>Advanced troubleshooting capabilities;</p>
 <p>Data Management-MySQL, Oracle Data Base; Postgres</p>
 <p>Knowledge of C, C++, C programming to AVR microcontroller</p>
-<p>Exceptional time management;</p>
+<p>Exceptional time management</p>
+<p>Advanced troubleshooting capabilities</p>
 <p>Linux knowledge</p>
-<p>Go language basic knowledge (Google);</p>
+<p>Go language basic knowledge;</p>
 
 <h3>Education and training</h3>
 <h4>Current</h4>
