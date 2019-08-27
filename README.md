@@ -44,7 +44,7 @@
 <p>Python Developer</p>
 <p>Summary of skills and activities:</p>
 <p>Development of new API for fintech analytics.
-Python, Django, django rest, Flask, swagger, Postgress, MongoDB, AWS (EBS, DynamoDB, EC2, Lambda Functions,AWS Developer Tools, ...), Scientific frameworsk in python (pandas, numpy, scipy, sklearn, tensorflow).</p>
+Python, Django, django rest, Flask, swagger, Postgress, MongoDB, AWS (EBS, DynamoDB, EC2, Lambda Functions,AWS Developer Tools, ...), Scientific libraries in python (pandas, numpy, scipy, sklearn, tensorflow).</p>
 <hr>
 <h4>Value Plus S.R.L</h4>
 <p>January 2017 - November 2018</p>
