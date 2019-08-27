@@ -2,7 +2,7 @@
 <p>Viale Alcide de Gasperi 8</p>
 <p>Treviglio BG, 24047</p>
 <p>Italy</p>
-<p>Mobile: +39 3755842734</p>
+<p>Mobile: +39 375 584 2734</p>
 <p>E-Mail: vagner.lucas.gomes@gmail.com</p>
 <p>28 years old,		Nationality: Brazilian</p>
 <p>Residency Status: EU citizen</p>
@@ -14,6 +14,7 @@
 <p>Python knowledge;</p>
 <p>Django knowledge;</p>
 <p>Django Rest Framework knowledge;</p>
+<p>API design knowledge;</p>
 <p>Docker basic knowledge;</p>
 <p>Ansible basic knowledge;</p>
 <p>Jenkins basic knowledge;</p>
@@ -21,11 +22,9 @@
 <p>In-depth knowledge of HTML5</p><p>JavaScripit</p><p> Jquery</p><p> Google Maps API</p>
 <p>In-depth knowledge of Java, J2EE,SE, JavaWeb, J2EE, Servlet, RestFul/Soap, I-report, Hibernate;</p>
 <p>Advanced troubleshooting capabilities;</p>
-<p>Data Management-MySQL, Oracle Data Base</p>
+<p>Data Management-MySQL, Oracle Data Base; Postgres</p>
 <p>Knowledge of C, C++, C programming to AVR microcontroller</p>
-<p>API design knowledge;</p>
 <p>Exceptional time management;</p>
-<p>Android programming basic knowledge;</p>
 <p>Linux knowledge</p>
 <p>Go language basic knowledge (Google);</p>
 
@@ -38,24 +37,14 @@
 <h4>Additional information</h4> 
 <p>•<a href='https://www.udemy.com/machine-learning-e-data-science-com-python-y/' target='_blank' > Machine Learning e Data Science com Python de A à Z</a></p>
 <p>•<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-7UH897EY.pdf' target='_blank' > Jenkins em larga escala via Docker e Kubernetes</a></p>
-<p>•<a href='http://www.devmedia.com.br/' target='_blank' > Courses DevMedia:</a></p>
-<p>• Full application using Hibernate - 2015</p>
-<p>• IReport Course - Develop with Java Reporting - 2015</p>
-<p>• Java Web: Servlet, JSP, JSTL e tag - 2015</p>
-<p>• Developing a complete application with JPA- 2015</p>
-<p>• Specifications Cases of Use- 2015</p>
-<p>• iReport - Creating Java with reports for web applications - 2015</p>
-<p>• Image manipulation with Java- 2015</p>
-<p>• Java EE Course: Build a complete Java EE application - </p>2015</p>
-<p>• Use Case Diagram in practice - 2015</p>
-<p>• A virtual store creation course with Android Studio - ANDROID - 2016</p>
+ 
 <h3>Professional experiences</h3>
 <h4>Virtual B SPA</h4>
 <p>November 2018 - Current</p>
 <p>Python Developer</p>
 <p>Summary of skills and activities:</p>
 <p>Development of new API for fintech analytics.
-Python, Django, django rest, Flask, swagger, Postgress, MongoDB, AWS (EBS, DynamoDB, EC2, Lambda Functions, ...), Numpy, Pandas.</p>
+Python, Django, django rest, Flask, swagger, Postgress, MongoDB, AWS (EBS, DynamoDB, EC2, Lambda Functions,AWS Developer Tools, ...), Scientific frameworsk in python (pandas, numpy, scipy, sklearn, tensorflow).</p>
 <hr>
 <h4>Value Plus S.R.L</h4>
 <p>January 2017 - November 2018</p>
