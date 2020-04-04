@@ -1,6 +1,6 @@
 <h3>Vagner Lucas Gomes</h3>
 <p>Estrada Dario Manoel Cardápio</p>
-<p>Florianopolis, Sc</p>
+<p>Florianópolis, Sc</p>
 <p>Brazil</p>
 <p>Mobile: +55 49 9 96132833</p>
 <p>E-Mail: vagner.lucas.gomes@gmail.com</p>
