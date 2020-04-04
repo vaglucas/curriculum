@@ -1,8 +1,8 @@
 <h3>Vagner Lucas Gomes</h3>
-<p>Viale Alcide de Gasperi 8</p>
-<p>Treviglio BG, 24047</p>
-<p>Italy</p>
-<p>Mobile: +39 375 584 2734</p>
+<p>Estrada Dario Manoel Cardápio</p>
+<p>Florianopolis, Sc</p>
+<p>Brazil</p>
+<p>Mobile: +55 49 9 96132833</p>
 <p>E-Mail: vagner.lucas.gomes@gmail.com</p>
 <p>28 years old,		Nationality: Brazilian</p>
 <p>Residency Status: EU citizen</p>
@@ -13,6 +13,7 @@
 <h3>Skills</h3>
 <p>Python knowledge;</p>
 <p>Django knowledge;</p>
+<p>Software Architecture </p>
 <p>Django Rest Framework knowledge;</p>
 <p>API design knowledge;</p>
 <p>Docker basic knowledge;</p>
@@ -38,15 +39,24 @@
 <p>•<a href='https://www.udemy.com/machine-learning-e-data-science-com-python-y/' target='_blank' > Machine Learning e Data Science com Python de A à Z</a></p>
 <p>•<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-7UH897EY.pdf' target='_blank' > Jenkins em larga escala via Docker e Kubernetes</a></p>
  
+
+
 <h3>Professional experiences</h3>
-<h4>Virtual B SPA</h4>
-<p>November 2018 - Current</p>
+<h4>Hexagon agriculture - Florianópolis</h4>
+<p>December 2019 - currently</p>
+<p>Python Developer</p>
+<p>Summary of skills and activities:</p>
+<p>Development of new features .
+Python, Django, Flask, swagger, Postgress, tereaform, AWS (EBS, DynamoDB, EC2, Lambda Functions,AWS Developer Tools, ...)</p>
+<hr>
+<h4>Virtual B SPA, Milan - Italy</h4>
+<p>November 2018 - December 2019</p>
 <p>Python Developer</p>
 <p>Summary of skills and activities:</p>
 <p>Development of new API for fintech analytics.
 Python, Django, django rest, Flask, swagger, Postgress, MongoDB, AWS (EBS, DynamoDB, EC2, Lambda Functions,AWS Developer Tools, ...), Scientific libraries in python (pandas, numpy, scipy, sklearn, tensorflow).</p>
 <hr>
-<h4>Value Plus S.R.L</h4>
+<h4>Value Plus S.R.L - Milan - Italy</h4>
 <p>January 2017 - November 2018</p>
 <p>Java Developer</p>
 <p>Summary of skills and activities:</p>
@@ -58,7 +68,7 @@ Java EE, Rest, Soap, JBoss 7.1 HTML, JavaScript, Jquery, Bootstrap</p>
 <p>Summary of skills and activities:</p>
 <p>Development of web application for study organization. On a <a href='http://revisaapp.pythonanywhere.com/' target='_blank' >RevisaApp</a> </p>
 <hr>
-<h4>Beije Consulting</h4>
+<h4>Beije Consulting - Milan, Italy</h4>
 <p>December 2016 - December 2017</p>
 <p>Java Developer</p>
 <p>Summary of skills and activities:</p>
