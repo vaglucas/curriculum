@@ -2,7 +2,6 @@
 <p>Estr. Anarolina Silveira Santos, 201 - Vargem do Bom Jesus
 Florianópolis - SC
 </p>
-<p>Florianópolis, Sc</p>
 <p>Brazil</p>
 <p>Mobile: +55 49 9 96132833</p>
 <p>E-Mail: vagner.lucas.gomes@gmail.com</p>
@@ -33,7 +32,7 @@ Florianópolis - SC
 
 <h3>Education and training</h3>
 <h4>Current</h4>
-<p>University of West Santa Catarina – UNOESCt</p>
+<p>University of West Santa Catarina – UNOESC</p>
 <p>Master degree of a scientific nature: Computer Engineering</p>
 
 <h3>Certification/Courses</h3>
