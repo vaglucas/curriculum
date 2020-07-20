@@ -1,5 +1,7 @@
 <h3>Vagner Lucas Gomes</h3>
-<p>Estrada Dario Manoel Cardápio</p>
+<p>Estr. Anarolina Silveira Santos, 201 - Vargem do Bom Jesus
+Florianópolis - SC
+</p>
 <p>Florianópolis, Sc</p>
 <p>Brazil</p>
 <p>Mobile: +55 49 9 96132833</p>
@@ -9,7 +11,7 @@
 <a href="https://www.linkedin.com/in/vagner-lucas-gomes-52975766/" target="_blank" >linkedin</a> 
 <h>
 <h3>Summary</h3>
-<p>Skilled software developer with more than 5 years of experience in designing, developing and integrating software. In-depth knowledge of Java and its APIs (Rest, Hibernate, iReport, etc), libraries and framewoks, HTML5, JavaScript, jQuery. Knowledge Python, Django, Django rest framework. Basic knowledge of Android, Golang, C ++ and C-</p>
+<p>Skilled software developer with more than 6 years of experience in designing, developing and integrating software. In-depth Knowledge of Python, Django, Django rest framework. knowledge of Java and its APIs (Rest, Hibernate, iReport, etc), libraries and framewoks, HTML5, JavaScript, jQuery. Basic knowledge of Android, Golang, C ++ and C-</p>
 <h3>Skills</h3>
 <p>Python knowledge;</p>
 <p>Django knowledge;</p>
@@ -36,9 +38,13 @@
 
 <h3>Certification/Courses</h3>
 <h4>Additional information</h4> 
+<p>•<a href='https://cursos.alura.com.br/user/vagner-lucas/course/python-3-avancando-orientacao-objetos/certificate' target='_blank' >PYTHON 3: AVANÇANDO NA ORIENTAÇÃO A OBJETOS
+</a></p>
+<p>•<a href='https://cursos.alura.com.br/user/vagner-lucas/course/design-patterns-python/certificate' target='_blank' > DESIGN PATTERNS PYTHON I: BOAS PRÁTICAS DE PROGRAMAÇÃO</a></p>
+<p>•<a href='https://cursos.alura.com.br/user/vagner-lucas/course/design-patterns-python-2/certificate' target='_blank' >DESIGN PATTERNS PYTHON II: BOAS PRÁTICAS DE PROGRAMAÇÃO
+</a></p>
 <p>•<a href='https://www.udemy.com/machine-learning-e-data-science-com-python-y/' target='_blank' > Machine Learning e Data Science com Python de A à Z</a></p>
 <p>•<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-7UH897EY.pdf' target='_blank' > Jenkins em larga escala via Docker e Kubernetes</a></p>
- 
 
 
 <h3>Professional experiences</h3>
