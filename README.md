@@ -1,17 +1,13 @@
 <h3>Vagner Lucas Gomes</h3>
-<p>Estr. Anarolina Silveira Santos, 201 - Vargem do Bom Jesus
-Florianópolis - SC
-</p>
-<p>Brazil</p>
-<p>Mobile: +55 49 9 96132833</p>
+<p>Brazil/SantaCatariana</p>
+<p>Mobile: +55 48 9 96132833</p>
 <p>E-Mail: vagner.lucas.gomes@gmail.com</p>
-<p>28 years old,		Nationality: Brazilian</p>
+<p>33 years old,		Nationality: Brazilian</p>
 <p>Residency Status: EU citizen</p>
 <a href="https://www.linkedin.com/in/vagner-lucas-gomes-52975766/" target="_blank" >linkedin</a> 
 <h>
 <h3>Summary</h3>
-<p>Skilled software developer with more than 6 years of experience in designing, developing and integrating software. In-depth Knowledge of Python, Django, Django rest framework. knowledge of Java and its APIs (Rest, Hibernate, iReport, etc), libraries and framewoks, HTML5, JavaScript, jQuery. Basic knowledge of Android, Golang, C ++ and C-</p>
-<h3>Skills</h3>
+<h3>Hard Skills</h3>
 <p>Python knowledge;</p>
 <p>Django knowledge;</p>
 <p>Linux knowledge</p>
@@ -45,9 +41,15 @@ Florianópolis - SC
 <p>•<a href='https://www.udemy.com/machine-learning-e-data-science-com-python-y/' target='_blank' > Machine Learning e Data Science com Python de A à Z</a></p>
 <p>•<a href='https://udemy-certificate.s3.amazonaws.com/pdf/UC-7UH897EY.pdf' target='_blank' > Jenkins em larga escala via Docker e Kubernetes</a></p>
 
-
 <h3>Professional experiences</h3>
-<h4>Hexagon agriculture - Florianópolis</h4>
+<h4>Azos Seguros - São Paulo</h4>
+<p>April 2021 - currently</p>
+<p>Tech Lead/Software Engenier </p>
+<p>Summary of skills and activities:</p>
+<p></p>
+<hr>
+<h3>Professional experiences</h3>
+<h4>Hexagon agriculture - Apr/2021</h4>
 <p>December 2019 - currently</p>
 <p>Python Developer</p>
 <p>Summary of skills and activities:</p>
