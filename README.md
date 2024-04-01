@@ -12,19 +12,21 @@
 <p>Django knowledge;</p>
 <p>Linux knowledge</p>
 <p>Amazon Web Services </p>
+<p>Google cloud</p>
 <p>Software Architecture </p>
 <p>Django Rest Framework knowledge;</p>
 <p>API design knowledge;</p>
 <p>Docker basic knowledge;</p>
 <p>Ansible basic knowledge;</p>
 <p>Jenkins basic knowledge;</p>
-<p>Java knowledge;</p>
-<p>In-depth knowledge of HTML5; JavaScripit; Jquery</p>
-<p>Data Management-MySQL, Oracle Data Base; Postgres</p>
-<p>Basic Knowledge of C, C++, C programming to AVR microcontroller</p>
+<p>Data Management-MySQL, Oracle Data Base; Postgres; MongoDB</p>
+
+<h3>Soft Skills</h3>
 <p>Exceptional time management</p>
 <p>Advanced troubleshooting capabilities</p>
-<p>Go language basic knowledge;</p>
+<p>Team Work</p>
+<p>Leadership</p>
+
 
 <h3>Education and training</h3>
 <h4>Current</h4>
