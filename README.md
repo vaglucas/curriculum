@@ -50,10 +50,10 @@
 <hr>
 <h3>Professional experiences</h3>
 <h4>Hexagon agriculture - Apr/2021</h4>
-<p>December 2019 - currently</p>
+<p>December 2019 - March/2021</p>
 <p>Python Developer</p>
 <p>Summary of skills and activities:</p>
-<p>Development of new features .
+<p>Development of new features.
 Python, Django, Flask, swagger, Postgress, tereaform, AWS (EBS, DynamoDB, EC2, Lambda Functions,AWS Developer Tools, ...)</p>
 <hr>
 <h4>Virtual B SPA, Milan - Italy</h4>
